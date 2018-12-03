@@ -1,6 +1,8 @@
 'use strict';
 
-/* 
+/*  
+// для API ключа
+
         "api.openweathermap.org/data/2.5/weather",
         {
             "id": "569143",
@@ -10,5 +12,6 @@
             console.log(data);
 */
 
+import CityService from './DataBase/city-service.js';
 
 
